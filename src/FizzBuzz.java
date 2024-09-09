@@ -2,7 +2,7 @@
  * Solve the FizzBuzz challenge.
  */
 class FizzBuzz {
-
+    //wtff
     public static void main(String[] args) {
         int i = 0;
         while(i<100) {
